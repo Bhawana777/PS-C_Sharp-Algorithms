@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\PS-C#-Algorithms\Cyclic linked list\bin\Debug\net6.0\Cyclic_linked_list.exe
+C:\Users\hp\Documents\PS-C#-Algorithms\Cyclic linked list\bin\Debug\net6.0\Cyclic_linked_list.deps.json
+C:\Users\hp\Documents\PS-C#-Algorithms\Cyclic linked list\bin\Debug\net6.0\Cyclic_linked_list.runtimeconfig.json
+C:\Users\hp\Documents\PS-C#-Algorithms\Cyclic linked list\bin\Debug\net6.0\Cyclic_linked_list.dll
+C:\Users\hp\Documents\PS-C#-Algorithms\Cyclic linked list\bin\Debug\net6.0\ref\Cyclic_linked_list.dll
+C:\Users\hp\Documents\PS-C#-Algorithms\Cyclic linked list\bin\Debug\net6.0\Cyclic_linked_list.pdb
+C:\Users\hp\Documents\PS-C#-Algorithms\Cyclic linked list\obj\Debug\net6.0\Cyclic_linked_list.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\PS-C#-Algorithms\Cyclic linked list\obj\Debug\net6.0\Cyclic_linked_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\PS-C#-Algorithms\Cyclic linked list\obj\Debug\net6.0\Cyclic_linked_list.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\PS-C#-Algorithms\Cyclic linked list\obj\Debug\net6.0\Cyclic_linked_list.AssemblyInfo.cs
+C:\Users\hp\Documents\PS-C#-Algorithms\Cyclic linked list\obj\Debug\net6.0\Cyclic_linked_list.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\PS-C#-Algorithms\Cyclic linked list\obj\Debug\net6.0\Cyclic_linked_list.dll
+C:\Users\hp\Documents\PS-C#-Algorithms\Cyclic linked list\obj\Debug\net6.0\ref\Cyclic_linked_list.dll
+C:\Users\hp\Documents\PS-C#-Algorithms\Cyclic linked list\obj\Debug\net6.0\Cyclic_linked_list.pdb
+C:\Users\hp\Documents\PS-C#-Algorithms\Cyclic linked list\obj\Debug\net6.0\Cyclic_linked_list.genruntimeconfig.cache
