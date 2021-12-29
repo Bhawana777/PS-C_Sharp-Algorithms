@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\PS-C#-Algorithms\end\bin\Debug\net6.0\Algorithms.exe
+C:\Users\hp\Documents\PS-C#-Algorithms\end\bin\Debug\net6.0\Algorithms.deps.json
+C:\Users\hp\Documents\PS-C#-Algorithms\end\bin\Debug\net6.0\Algorithms.runtimeconfig.json
+C:\Users\hp\Documents\PS-C#-Algorithms\end\bin\Debug\net6.0\Algorithms.dll
+C:\Users\hp\Documents\PS-C#-Algorithms\end\bin\Debug\net6.0\ref\Algorithms.dll
+C:\Users\hp\Documents\PS-C#-Algorithms\end\bin\Debug\net6.0\Algorithms.pdb
+C:\Users\hp\Documents\PS-C#-Algorithms\end\obj\Debug\net6.0\Algorithms.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\PS-C#-Algorithms\end\obj\Debug\net6.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\PS-C#-Algorithms\end\obj\Debug\net6.0\Algorithms.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\PS-C#-Algorithms\end\obj\Debug\net6.0\Algorithms.AssemblyInfo.cs
+C:\Users\hp\Documents\PS-C#-Algorithms\end\obj\Debug\net6.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\PS-C#-Algorithms\end\obj\Debug\net6.0\Algorithms.dll
+C:\Users\hp\Documents\PS-C#-Algorithms\end\obj\Debug\net6.0\ref\Algorithms.dll
+C:\Users\hp\Documents\PS-C#-Algorithms\end\obj\Debug\net6.0\Algorithms.pdb
+C:\Users\hp\Documents\PS-C#-Algorithms\end\obj\Debug\net6.0\Algorithms.genruntimeconfig.cache

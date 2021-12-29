@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\PS-C#-Algorithms\Delete Kth node from the end of the list\bin\Debug\net6.0\delete_node.exe
+C:\Users\hp\Documents\PS-C#-Algorithms\Delete Kth node from the end of the list\bin\Debug\net6.0\delete_node.deps.json
+C:\Users\hp\Documents\PS-C#-Algorithms\Delete Kth node from the end of the list\bin\Debug\net6.0\delete_node.runtimeconfig.json
+C:\Users\hp\Documents\PS-C#-Algorithms\Delete Kth node from the end of the list\bin\Debug\net6.0\delete_node.dll
+C:\Users\hp\Documents\PS-C#-Algorithms\Delete Kth node from the end of the list\bin\Debug\net6.0\ref\delete_node.dll
+C:\Users\hp\Documents\PS-C#-Algorithms\Delete Kth node from the end of the list\bin\Debug\net6.0\delete_node.pdb
+C:\Users\hp\Documents\PS-C#-Algorithms\Delete Kth node from the end of the list\obj\Debug\net6.0\delete_node.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\PS-C#-Algorithms\Delete Kth node from the end of the list\obj\Debug\net6.0\delete_node.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\PS-C#-Algorithms\Delete Kth node from the end of the list\obj\Debug\net6.0\delete_node.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\PS-C#-Algorithms\Delete Kth node from the end of the list\obj\Debug\net6.0\delete_node.AssemblyInfo.cs
+C:\Users\hp\Documents\PS-C#-Algorithms\Delete Kth node from the end of the list\obj\Debug\net6.0\delete_node.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\PS-C#-Algorithms\Delete Kth node from the end of the list\obj\Debug\net6.0\delete_node.dll
+C:\Users\hp\Documents\PS-C#-Algorithms\Delete Kth node from the end of the list\obj\Debug\net6.0\ref\delete_node.dll
+C:\Users\hp\Documents\PS-C#-Algorithms\Delete Kth node from the end of the list\obj\Debug\net6.0\delete_node.pdb
+C:\Users\hp\Documents\PS-C#-Algorithms\Delete Kth node from the end of the list\obj\Debug\net6.0\delete_node.genruntimeconfig.cache
